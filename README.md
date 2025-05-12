@@ -63,12 +63,3 @@ Install all dependencies using:
 ```bash
 pip install -r requirements.txt
 ```
-
-Example `requirements.txt`:
-```
-tensorflow
-opencv-python
-matplotlib
-numpy
-scikit-learn
-```
